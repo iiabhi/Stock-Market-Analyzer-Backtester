@@ -22,7 +22,7 @@ This Streamlit web application allows users to analyze historical stock data, ap
 ## 🛠️ Tech Stack
 
 - **Frontend:** [Streamlit](https://streamlit.io/)
-- **Backend:** Python 3.13+
+- **Backend:** Python 3.11+
 - **Libraries:**
   - `yfinance`
   - `pandas`, `numpy`, `matplotlib`
@@ -74,3 +74,4 @@ This Streamlit web application allows users to analyze historical stock data, ap
 
 📧 Contact
 Made with ❤️ by Abhishek Kumar @iiabhi
+
