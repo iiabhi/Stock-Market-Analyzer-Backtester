@@ -1,1 +1,3 @@
 libatlas-base-dev
+libta-lib0
+libta-lib-dev
