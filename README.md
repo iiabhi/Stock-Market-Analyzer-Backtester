@@ -73,5 +73,5 @@ This Streamlit web application allows users to analyze historical stock data, ap
 
 
 ## 📧 Contact
-# Made with ❤️ by Abhishek Kumar @iiabhi
+#### Made with ❤️ by Abhishek Kumar @iiabhi
 
