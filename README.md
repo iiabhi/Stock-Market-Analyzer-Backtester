@@ -72,6 +72,6 @@ This Streamlit web application allows users to analyze historical stock data, ap
 <img width="1470" height="956" alt="Screenshot 2025-08-07 at 12 46 33 AM" src="https://github.com/user-attachments/assets/034dce5f-ad18-4409-a6b1-9f0c6987a80e" />
 
 
-📧 Contact
-Made with ❤️ by Abhishek Kumar @iiabhi
+## 📧 Contact
+# Made with ❤️ by Abhishek Kumar @iiabhi
 
