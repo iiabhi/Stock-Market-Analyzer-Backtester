@@ -36,7 +36,7 @@ This Streamlit web application allows users to analyze historical stock data, ap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-market-analyzer-backtester.git
+   git clone https://github.com/iiabhi/stock-market-analyzer-backtester.git
    cd stock-market-analyzer-backtester
 
 2. Install dependencies:
